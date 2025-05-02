@@ -42,6 +42,10 @@ The Doctor Appointment Management System is a web-based application designed to 
 
 - **Other Tools**: 
   - RESTful APIs for data exchange
+ ## Done By
+   ### Hisham Al-Hamdi
+   ### Wadhah Ameen
+   ### Khaled Al-Haj
 
 ## Installation
 
@@ -51,8 +55,5 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/doctor-appointment-management.git
 
-   ## Done By
-   ### Hisham Al-Hamdi
-   ### Wadhah Ameen
-   ### Khaled Al-Haj
+  
    
