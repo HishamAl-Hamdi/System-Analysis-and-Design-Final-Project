@@ -27,7 +27,8 @@ The Doctor Appointment Management System is a web-based application designed to 
 
 ## Technologies Used
 
-- **Frontend**: 
+- **Frontend**:
+  - PHP
   - HTML
   - CSS
   - JavaScript (or specify frameworks like React, Angular, etc.)
@@ -37,12 +38,10 @@ The Doctor Appointment Management System is a web-based application designed to 
   - Express
   
 - **Database**: 
-  - MongoDB (or specify your chosen database)
+  - MYSQL
 
 - **Other Tools**: 
   - RESTful APIs for data exchange
-  - JWT for secure authentication
-  - Cloud services for hosting (if applicable)
 
 ## Installation
 
@@ -52,8 +51,8 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/doctor-appointment-management.git
 
-   ##Done By
-   ###Hisham Al-Hamdi
-   ###Wadhah Ameen
-   ###Khaled Al-Haj
+   ## Done By
+   ### Hisham Al-Hamdi
+   ### Wadhah Ameen
+   ### Khaled Al-Haj
    
